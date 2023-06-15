@@ -1,0 +1,46 @@
+* {
+  background-color: bisque;
+}
+
+h1 {
+  font-family: "Signika Negative", sans-serif;
+  font-size: 50px;
+  background-color: aqua;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
+.my-resume {
+  background-color: blue;
+}
+li {
+  font-size: 15px;
+}
+
+h5 {
+  background-color: blueviolet;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+body {
+  font-size: 25px;
+  text-align: center;
+}
+
+#first {
+  background-color: blueviolet;
+  padding: 20px;
+  border: 20px solid gray;
+  margin-left: 150px;
+  border-width: 20px 10px;
+}
+
+#second {
+  background-color: blue;
+  padding: 30px;
+  border: 30px solid orange;
+}
